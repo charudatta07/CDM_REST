@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T20:31:57.490Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mcGuCYH6dktiscEmS3Rr" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-03T20:35:34.519Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ASPh-9AbD3LSjAu0Zm8h" version="22.1.16" type="github" pages="2">
   <diagram name="Current State" id="tbZF8guMvgfieXO2qW0E">
-    <mxGraphModel dx="2426.4" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.6" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3860.4" dy="2267.4" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="0.6" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1055,6 +1055,11 @@
         <mxCell id="yuKBt2K-wmD50oFo5iBD-188" value="Proposed State" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#009900;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-610" y="720" width="120" height="80" as="geometry" />
         </mxCell>
+        <object placeholders="1" c4Name="Product Processor Data Services" c4Application="Trade Finance" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="yuKBt2K-wmD50oFo5iBD-189">
+          <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="-710" y="-30" width="1920" height="1520" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
